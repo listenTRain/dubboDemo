@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zd_commons_service" />
+        <module name="zd_consumer" />
+        <module name="zd_provider" />
+        <module name="zd_provider1" />
+        <module name="zd_provider2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubboDemo" target="1.6" />
+      <module name="zd_commons_service" target="1.6" />
+      <module name="zd_consumer" target="1.6" />
+      <module name="zd_provider" target="1.6" />
+      <module name="zd_provider1" target="1.6" />
+      <module name="zd_provider2" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

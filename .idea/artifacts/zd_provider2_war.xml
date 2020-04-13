@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zd_provider2:war">
+    <output-path>$PROJECT_DIR$/zd_provider2/target</output-path>
+    <root id="archive" name="zd_provider2-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="zd_provider2:war exploded" />
+    </root>
+  </artifact>
+</component>

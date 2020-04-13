@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubboDemo.iml" filepath="$PROJECT_DIR$/dubboDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zd_commons_service/zd_commons_service.iml" filepath="$PROJECT_DIR$/zd_commons_service/zd_commons_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zd_consumer/zd_consumer.iml" filepath="$PROJECT_DIR$/zd_consumer/zd_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zd_provider1/zd_provider1.iml" filepath="$PROJECT_DIR$/zd_provider1/zd_provider1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zd_provider2/zd_provider2.iml" filepath="$PROJECT_DIR$/zd_provider2/zd_provider2.iml" />
+    </modules>
+  </component>
+</project>

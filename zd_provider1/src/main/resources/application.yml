@@ -1,0 +1,19 @@
+server:
+  port: 7071
+
+## Dubbo 服务提供者配置
+#应用名
+spring:
+  dubbo:
+    application:
+      name: provider1
+    #zookeeper的注册地址
+    registry:
+      address: zookeeper://127.0.0.1:2181
+    #注册zookeeper的协议
+    protocol:
+      name: dubbo
+      #提供者业务层注册到dubbo中的端口号
+      port: 20881
+    #扫描提供服务的业务层实现类路径
+    scan: com.java.provider.service.impl
