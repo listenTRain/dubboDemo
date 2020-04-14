@@ -7,4 +7,6 @@ package com.java.commons;
 public interface DemoService {
     //微服务测试接口
     String test01(String userName) throws Exception;
+
+    String test02(String userName) throws Exception;
 }
